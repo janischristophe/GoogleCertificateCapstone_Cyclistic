@@ -2,6 +2,8 @@
 ## Discription
 This is my first case study from start to finish completed through the Google Data Analyst Certificate Program. Cyclistic is a fictitious Chicago-based company that has provided the city with a bike sharing transportation system. I have been hired as a junior data analyst, and I am part of a marketing analytics team that focuses on the usage and growth of Cyclistic. The director of marketing, Lily Moreno, has come to our team for insights that explore the usage differences between riders who casually use the platform and and riders that have an annual membership. They believe that the future of Cyclistic lies with casual users becoming annual members. Our job is to find trends between the first quarters of 2019 and 2020 to share with the stakeholders, to help them come up with a new marketing program.
 
+Full report [here](https://rpubs.com/janischristophe/1164093).
+
 ## Programming Languages/Software
 - Excel - Sorting and cleaning data
 - R:
