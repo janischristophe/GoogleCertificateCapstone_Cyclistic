@@ -34,56 +34,70 @@ Link to my findings presentation
 
 Scope of Project:
 
-+---------------+---------------------------------------------+
-| Deliverables  | Outcomes                                    |
-+===============+=============================================+
-| Define and    | -   Create scope of work documentation      |
-| Discuss the   | -   Identify problem statement and          |
-| Project       |     stakeholders                            |
-|               | -   Define goals                            |
-|               | -   Establish metrics of success and        |
-|               |     expectations                            |
-+---------------+---------------------------------------------+
-| Prepare the   | -   Identify source of data, collect, and   |
-| Data for      |     store                                   |
-| Exploration   | -   Determine data reliability, origin,     |
-|               |     comprehensiveness, current relevance,   |
-|               |     credibility, and licensing              |
-|               | -   Identify data organization; sort and    |
-|               |     filter                                  |
-+---------------+---------------------------------------------+
-| Process the   | -   Determine the tools that will be used   |
-| Data for      |     for the analysis/why                    |
-| Analysis      | -   Check for data errors/ “dirty” data     |
-|               | -   Transform data to correct data types    |
-|               | -   Ensure that data being used is clean    |
-|               | -   Document the cleaning process           |
-+---------------+---------------------------------------------+
-| Conduct a     | -   Organize, and format data properly      |
-| Descriptive   | -   Identify trends in the data with        |
-| Analysis      |     calculations, data aggregation, and     |
-|               |     visualization                           |
-|               | -   Provide a detailed analytical summary   |
-|               |     of the clean, unbiased and              |
-|               |     representative data                     |
-+---------------+---------------------------------------------+
-| Share         | -   What story is the analysis telling and  |
-| Findings with |     how does it relate to the business      |
-| Stakeholders  |     problem?                                |
-|               | -   Determine way best communicate findings |
-|               |     to the audience                         |
-|               | -   Create an effective and accessible      |
-|               |     presentation that helps solve the       |
-|               |     business problem discussed beforehand   |
-+---------------+---------------------------------------------+
-| Act on Key    | -   Explore how additional data parameters  |
-| Findings      |     would expand upon the analysis and      |
-|               |     insights                                |
-|               | -   Share recommendations based on          |
-|               |     analytical findings, with shareholders  |
-|               |     to to help the marketing team in their  |
-|               |     project.                                |
-+---------------+---------------------------------------------+
++----------------------------------+----------------------------------+
+| Deliverables                     | Outcomes                         |
++==================================+==================================+
+| Define and Discuss the Project   | -   Create scope of work         |
+|                                  |     documentation                |
+|                                  | -   Identify problem statement   |
+|                                  |     and stakeholders             |
+|                                  | -   Define goals                 |
+|                                  | -   Establish metrics of success |
+|                                  |     and expectations             |
++----------------------------------+----------------------------------+
+| Prepare the Data for Exploration | -   Identify source of data,     |
+|                                  |     collect, and store           |
+|                                  | -   Determine data reliability,  |
+|                                  |     origin, comprehensiveness,   |
+|                                  |     current relevance,           |
+|                                  |     credibility, and licensing   |
+|                                  | -   Identify data organization;  |
+|                                  |     sort and filter              |
++----------------------------------+----------------------------------+
+| Process the Data for Analysis    | -   Determine the tools that     |
+|                                  |     will be used for the         |
+|                                  |     analysis/why                 |
+|                                  | -   Check for data errors/       |
+|                                  |     “dirty” data                 |
+|                                  | -   Transform data to correct    |
+|                                  |     data types                   |
+|                                  | -   Ensure that data being used  |
+|                                  |     is clean                     |
+|                                  | -   Document the cleaning        |
+|                                  |     process                      |
++----------------------------------+----------------------------------+
+| Conduct a Descriptive Analysis   | -   Organize, and format data    |
+|                                  |     properly                     |
+|                                  | -   Identify trends in the data  |
+|                                  |     with calculations, data      |
+|                                  |     aggregation, and             |
+|                                  |     visualization                |
+|                                  | -   Provide a detailed           |
+|                                  |     analytical summary of the    |
+|                                  |     clean, unbiased and          |
+|                                  |     representative data          |
++----------------------------------+----------------------------------+
+| Share Findings with Stakeholders | -   What story is the analysis   |
+|                                  |     telling and how does it      |
+|                                  |     relate to the business       |
+|                                  |     problem?                     |
+|                                  | -   Determine way best           |
+|                                  |     communicate findings to the  |
+|                                  |     audience                     |
+|                                  | -   Create an effective and      |
+|                                  |     accessible presentation that |
+|                                  |     helps solve the business     |
+|                                  |     problem discussed beforehand |
++----------------------------------+----------------------------------+
+| Act on Key Findings              | -   Explore how additional data  |
+|                                  |     parameters would expand upon |
+|                                  |     the analysis and insights    |
+|                                  | -   Share recommendations based  |
+|                                  |     on analytical findings, with |
+|                                  |     shareholders to to help the  |
+|                                  |     marketing team in their      |
+|                                  |     project.                     |
++----------------------------------+----------------------------------+
 
 Cyclistic Details:
 
@@ -118,29 +132,11 @@ casual riders (who know about the access to Cyclistic for their
 transportation needs) would buy a membership, and how digital media
 could affect the marketing tactics.
 
-+----------------+----------------------+----------------------+
-| Stakeholders   | Establish Metrics of | Project Goals        |
-|                | Success and          |                      |
-|                | Expectations         |                      |
-+================+======================+======================+
-| Marketing      | Discover differences | Provide data-driven  |
-| Analytics Team | in usage between the | results to inform    |
-|                | two bike user types  | Cyclistic’s decision |
-|                | and their            | making               |
-|                | motivations          |                      |
-+----------------+----------------------+----------------------+
-| Lily Moreno,   | Gather data-driven   | Create a marketing   |
-| Director of    | evidence to allow    | strategy to convert  |
-| Marketing      | the marketing team   | as many casual       |
-|                | to proceed with new  | riders to annual     |
-|                | strategies           | members as possible  |
-+----------------+----------------------+----------------------+
-| Cyclistic      | Observe compelling   | Implement            |
-| Executive Team | and relevant         | initiatives based on |
-|                | insights to allow    | the data to advance  |
-|                | advancement in       | Cylistic’s business  |
-|                | marketing decisions  | growth               |
-+----------------+----------------------+----------------------+
+| Stakeholders                       | Establish Metrics of Success and Expectations                                          | Project Goals                                                                              |
+|------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Marketing Analytics Team           | Discover differences in usage between the two bike user types and their motivations    | Provide data-driven results to inform Cyclistic’s decision making                          |
+| Lily Moreno, Director of Marketing | Gather data-driven evidence to allow the marketing team to proceed with new strategies | Create a marketing strategy to convert as many casual riders to annual members as possible |
+| Cyclistic Executive Team           | Observe compelling and relevant insights to allow advancement in marketing decisions   | Implement initiatives based on the data to advance Cylistic’s business growth              |
 
 ### Prepare the Data for Exploration
 
@@ -482,8 +478,6 @@ all_trips$year <- format(as.Date(all_trips$date), "%Y")
         board with no other supporting data, however they do contribute
         to the number of rows in the column, so it is beneficial to
         remove these rows from the data frame.
-
-<!-- -->
 
 21. Add a weekday name and time of day columns to *all_trips_v2* to
     provide more levels for aggregation
