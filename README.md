@@ -5,7 +5,7 @@ This is my first case study from start to finish completed through the Google Da
 Full report [here](https://rpubs.com/janischristophe/1164093).
 
 ## Programming Languages/Software
-- Excel - Sorting and cleaning data
+- Excel - Sorting and cleaning data (files too big to upload)
 - R:
   - RStudio - Further data cleaning; aggregation and analysis of the data
   - RMarkdown - Notation of my analysis
